@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 1
+# Swisstronik Testnet DEPLOY A SIMPLE CONTRACT USING HARDHAT
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
@@ -7,7 +7,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/hardhat-deploy-contract.git
+git clone https://github.com/AlluringPixel/hardhat-deploy-contract.git
 ```
 
 ```
